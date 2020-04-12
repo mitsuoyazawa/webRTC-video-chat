@@ -267,3 +267,5 @@ __pycache__/
 /AdminPortal/AdminFE/package-lock.json
 /CustomerApp/ClientApp/package-lock.json
 
+
+/backend/wwwroot/lib/bootstrap/dist/*
