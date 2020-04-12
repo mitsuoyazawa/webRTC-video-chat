@@ -269,3 +269,4 @@ __pycache__/
 
 
 /backend/wwwroot/lib/bootstrap/dist/*
+/frontend/.editorconfig
